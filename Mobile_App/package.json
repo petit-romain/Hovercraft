@@ -40,7 +40,7 @@
     "@react-navigation/stack": "5.0.0",
     "@ui-kitten/components": "4.4.0",
     "@ui-kitten/eva-icons": "4.4.0",
-    "axios": "0.18.0",
+    "axios": "0.21.1",
     "bugsnag-react-native": "2.23.6",
     "i18next": "19.1.0",
     "lodash": "4.17.11",
